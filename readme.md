@@ -6,3 +6,4 @@ Student: Zeynep Canlı
 
 #DSA210 - Movie Success Analysis
 Milestone 1 Submission
+I have enhanced the Exploratory Data Analysis (EDA) process by incorporating statistical hypothesis tests (Chi-Square & Kruskal-Wallis) and advanced visualizations to provide a mathematically rigorous analysis of the relationship between movie budgets and audience satisfaction for Milestone 1."
